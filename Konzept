@@ -1,0 +1,11 @@
+Konzept "Dungeonlords"
+
+Programmieren eines Textadventure Spiels mit Java
+
+***************************************************
+
+Der Spieler betritt ein Dungeon mit 100 Lebenspunkten (HP), dabei trifft er auf verschiedene Monstertypen, die je nach Typ eine gewisse 
+Anzahl an Schaden austeilen. Die Gegner können Beute hinterlassen, die Chance dass die Gegner was hinterlassen wird zufällig generiert.
+Der Spieler hat mehrere Auswahlmöglichkeiten zu agieren (z.B. 1=Angreifen, 2=Fliehen usw.). Stirbt der Spieler verliert er seine Beute
+und musst von vorn anfangen. (GAME OVER).
+
